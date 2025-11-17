@@ -31,14 +31,9 @@ The Superstore dataset showed high revenue numbers, but profitability was incons
 *Geographic view filtering sales performance by State and Region.*
 ![Regional Map](https://github.com/mrdhumaltushar/Superstore-Sales-Analysis/blob/main/Page%203.png)
 
-## 💡 Key Insights Uncovered
-* **The "Furniture" Trap**: While the Furniture category drives high revenue, the "Tables" sub-category operates at a net loss due to excessive discounting.
-* **Regional Strategy**: The **West** region is the top performer. The **South** region requires a review of shipping costs, which are eating into margins.
-* **Seasonality**: Historical data shows a consistent sales spike in **Q4 (Oct-Dec)**, indicating a need for inventory stockpiling in late Q3.
-
 ## 👤 Author
-**[Your Name]**
-* [LinkedIn Profile](LINK_TO_YOUR_LINKEDIN)
+**Tushar Dhumal**
+* [LinkedIn Profile](https://www.linkedin.com/in/tushar-dhumal/)
 
 ---
 *Thanks for viewing!*

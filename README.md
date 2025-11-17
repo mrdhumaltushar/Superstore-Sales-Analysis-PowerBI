@@ -17,7 +17,7 @@ The Superstore dataset showed high revenue numbers, but profitability was incons
     * *Moving Averages*
 * **Power Query**: Performed ETL to clean null values and standardize geographic data.
 
-## 📸 Dashboard Gallery
+## 📸 Dashboard
 
 ### 1. Dashboard Cover & KPIs
 *A high-level view of the project scope.*

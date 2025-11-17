@@ -6,8 +6,6 @@
 ## 📖 Project Overview
 This portfolio project demonstrates an end-to-end business intelligence solution analyzing a retail superstore's performance. The goal was to transform raw sales data into an interactive visual story that identifies profit-draining products and regional growth opportunities.
 
-*Note: This repository serves as a visual case study of the dashboard logic and design.*
-
 ## 🔍 Business Problem
 The Superstore dataset showed high revenue numbers, but profitability was inconsistent. The business needed to visualize **Sales vs. Profit** to pinpoint exactly where money was being lost despite high transaction volumes.
 
@@ -23,7 +21,7 @@ The Superstore dataset showed high revenue numbers, but profitability was incons
 
 ### 1. Dashboard Cover & KPIs
 *A high-level view of the project scope.*
-![Main Dashboard](screenshots/dashboard_cover.jpg)
+![Main Dashboard](https://github.com/mrdhumaltushar/Superstore-Sales-Analysis/blob/main/Page%201.png)
 
 ### 2. Detailed Sales Analysis
 *Drill-down into Category and Sub-Category performance to identify loss-makers.*

@@ -1,6 +1,7 @@
 # 📊 Superstore Sales Analysis & Dashboard
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-blue?style=for-the-badge)
 
 ## 📖 Project Overview
 This portfolio project demonstrates an end-to-end business intelligence solution analyzing a retail superstore's performance. The goal was to transform raw sales data into an interactive visual story that identifies profit-draining products and regional growth opportunities.
